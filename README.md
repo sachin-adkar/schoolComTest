@@ -13,10 +13,11 @@ Requirements:
      yarn start
     
 # Routes
- - /register : for signup
- - /login : for login
- - /users : list all the users
- - /validate : validate parenthesis
+ - /register : For signup
+ - /login : For login
+ - /users : List all the users
+ - /deleteUser : Deletes a user
+ - /validate : Validates parenthesis
  
 # Styleguide referred
  https://github.com/elastic/kibana
